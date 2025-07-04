@@ -1,0 +1,9 @@
+{
+  "name": "empty",
+  "symbol": "empty",
+  "description": "na",
+  "image": "https://raw.githubusercontent.com/SoloMakerDude/publicstuff/main/token.png",
+  "extensions": {
+    "website": "https://www.doxyd.com/"    
+  }
+}
